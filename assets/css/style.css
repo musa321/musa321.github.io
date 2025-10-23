@@ -1,0 +1,112 @@
+/* Additional styles for Jekyll site */
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Ensure proper spacing */
+.site-header .wrapper {
+  padding: 2rem 1rem;
+}
+
+.main-content .wrapper {
+  padding: 0 1rem;
+}
+
+.site-footer .wrapper {
+  padding: 2rem 1rem;
+}
+
+/* Link styles */
+a {
+  color: var(--primary-color, #2563eb);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color, #1e40af);
+  text-decoration: underline;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9em;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--primary-color, #2563eb);
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  background-color: var(--background-light, #f8fafc);
+  font-style: italic;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color, #e5e7eb);
+}
+
+th {
+  background-color: var(--background-light, #f8fafc);
+  font-weight: 600;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--border-radius, 8px);
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 0 0.5rem;
+  }
+  
+  .site-header .wrapper {
+    padding: 1rem 0.5rem;
+  }
+  
+  .main-content .wrapper {
+    padding: 0 0.5rem;
+  }
+  
+  .site-footer .wrapper {
+    padding: 1rem 0.5rem;
+  }
+}

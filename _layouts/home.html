@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home-intro">
+  <h1>{{ content | split: '#' | last | split: '**' | first | strip }}</h1>
+  <p>{{ content | split: '**' | last | split: '##' | first | strip }}</p>
+</div>
+
+<div class="navigation-cards">
+  <div class="nav-card">
+    <h3>📄 CV & Education</h3>
+    <p>View my academic background, qualifications, and detailed marksheet information.</p>
+    <a href="{{ '/cv/' | relative_url }}">View CV</a>
+  </div>
+  
+  <div class="nav-card">
+    <h3>🚀 Projects</h3>
+    <p>Explore my portfolio of projects, including web applications, mobile apps, and more.</p>
+    <a href="{{ '/projects/' | relative_url }}">View Projects</a>
+  </div>
+  
+  <div class="nav-card">
+    <h3>📧 About & Contact</h3>
+    <p>Learn more about me and get in touch for collaborations or opportunities.</p>
+    <a href="{{ '/about/' | relative_url }}">Get In Touch</a>
+  </div>
+</div>
+
+<div class="page-content">
+  {{ content }}
+</div>
