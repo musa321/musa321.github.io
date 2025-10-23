@@ -9,28 +9,50 @@ permalink: /cv/
 ## Personal Information
 - **Name:** Shibasankar Dash
 - **Email:** shibasankar@example.com
-- **Location:** [Your City, Country]
+- **Location:** Bangalore, India
 - **LinkedIn:** [Your LinkedIn Profile]
 - **GitHub:** [github.com/shibasankardash](https://github.com/shibasankardash)
 
 ## Education
 
-### Bachelor of Technology (B.Tech) in Computer Science
-**University:** [Your University Name]  
-**Duration:** [Start Year] - [End Year]  
-**CGPA/Percentage:** [Your Score]
+### Master of Technology (M.Tech) in Materials Engineering
+**Institution:** Indian Institute of Science (IISc), Bangalore  
+**Duration:** August 2023 - December 2025  
+**CGPA:** [Your CGPA]
+
+#### Master's Thesis Project
+**Title:** "Interaction of Hydrogen with Dislocation in Nickel using First Principles"  
+**Description:** Advanced computational materials science research using Density Functional Theory (DFT) to study hydrogen-dislocation interactions in nickel alloys. This research contributes to understanding hydrogen embrittlement mechanisms in structural materials.
+
+#### Key Achievements
+- **Best Experiment Award** - IISc Open Day 2024
+- **International Conference Presentation** - DGM Conference, Germany (February 2025)
+- **Research Excellence** - Top-tier materials science research
+
+---
+
+### Bachelor of Technology (B.Tech) in Materials and Ceramic Engineering
+**Institution:** National Institute of Technology (NIT), Rourkela  
+**Duration:** 2018 - 2022  
+**CGPA:** [Your CGPA]
+
+#### Bachelor's Project
+**Title:** "Refractory Lining of the Blast Furnace"  
+**Description:** Comprehensive study and design of refractory materials for blast furnace applications, focusing on thermal stability, chemical resistance, and mechanical properties under extreme conditions.
 
 #### Academic Performance
-| Semester | Subjects | Grade/Score |
-|----------|----------|-------------|
-| 1st | Mathematics, Physics, Chemistry, Programming Fundamentals | [Grade] |
-| 2nd | Data Structures, Digital Logic, Computer Organization | [Grade] |
-| 3rd | Algorithms, Database Systems, Operating Systems | [Grade] |
-| 4th | Software Engineering, Computer Networks, Web Technologies | [Grade] |
-| 5th | Machine Learning, Artificial Intelligence, Mobile Development | [Grade] |
-| 6th | Cloud Computing, Cybersecurity, Project Management | [Grade] |
-| 7th | Advanced Algorithms, Distributed Systems, Final Year Project | [Grade] |
-| 8th | Internship, Capstone Project, Industry Training | [Grade] |
+| Semester | Key Subjects | Grade/Score |
+|----------|--------------|-------------|
+| 1st | Mathematics, Physics, Chemistry, Engineering Graphics | [Grade] |
+| 2nd | Materials Science, Thermodynamics, Engineering Mechanics | [Grade] |
+| 3rd | Ceramic Processing, Phase Diagrams, Heat Transfer | [Grade] |
+| 4th | Refractory Technology, Glass Technology, Materials Testing | [Grade] |
+| 5th | Advanced Ceramics, Composites, Corrosion Engineering | [Grade] |
+| 6th | Nanomaterials, Biomaterials, Project Work I | [Grade] |
+| 7th | Industrial Training, Project Work II, Electives | [Grade] |
+| 8th | Final Year Project, Professional Ethics, Electives | [Grade] |
+
+---
 
 ### Higher Secondary Education (12th Grade)
 **School:** [Your School Name]  
@@ -46,37 +68,88 @@ permalink: /cv/
 
 ## Technical Skills
 
+### Computational Methods
+- **Density Functional Theory (DFT)** - VASP, Quantum ESPRESSO
+- **Machine Learning** - Python, Scikit-learn, TensorFlow
+- **Deep Learning** - Neural Networks, CNN, RNN
+- **Data Analysis** - Python, MATLAB, Origin
+
+### Materials Engineering
+- **Characterization Techniques** - XRD, SEM, TEM, AFM
+- **Simulation Software** - Materials Studio, COMSOL
+- **Process Engineering** - Ceramic Processing, Heat Treatment
+- **Testing Methods** - Mechanical Testing, Thermal Analysis
+
 ### Programming Languages
-- **Proficient:** Python, Java, JavaScript, C++
-- **Familiar:** Go, Rust, TypeScript, Swift
+- **Proficient:** Python, MATLAB, C++
+- **Familiar:** R, Fortran, JavaScript
 
-### Web Technologies
-- **Frontend:** React, Vue.js, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, Express.js, Django, Flask
-- **Database:** MySQL, PostgreSQL, MongoDB, Redis
+### Software & Tools
+- **Computational:** VASP, Quantum ESPRESSO, Materials Studio
+- **Data Analysis:** Python, MATLAB, Origin, Excel
+- **Version Control:** Git, GitHub
+- **Documentation:** LaTeX, Microsoft Office
 
-### Tools & Technologies
-- **Version Control:** Git, GitHub, GitLab
-- **Cloud Platforms:** AWS, Google Cloud, Azure
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Development:** VS Code, IntelliJ IDEA, Postman
+## Research Experience
 
-## Certifications
-- [Certification Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Issuing Organization] ([Year])
+### International Conference Presentation
+**Event:** DGM Conference, Germany  
+**Date:** February 2025  
+**Duration:** 7 days  
+**Topic:** "Hydrogen-Dislocation Interactions in Nickel: A First Principles Study"  
+**Achievement:** Presented cutting-edge research findings to international materials science community
+
+### Research Projects
+1. **M.Tech Thesis (2023-2025):** First principles study of hydrogen-dislocation interactions
+2. **B.Tech Project (2021-2022):** Refractory lining design for blast furnace applications
+3. **Open Day Project (2024):** Award-winning experimental demonstration
+
+## Academic Achievements
+
+### Competitive Examinations
+- **GATE Metallurgy** - Top 2% (All India Rank: [Your Rank])
+- **JEE Advanced** - [Your Rank/Percentile]
+
+### Awards & Recognition
+- **Best Experiment Award** - IISc Open Day 2024
+- **Academic Excellence** - Consistent top performance
+- **Research Recognition** - International conference presentation
+
+## Coursework
+
+### Master's Level Courses
+- Advanced Materials Characterization
+- Computational Materials Science
+- Quantum Mechanics for Materials
+- Thermodynamics of Materials
+- Mechanical Behavior of Materials
+- [Add more courses as needed]
+
+### Bachelor's Level Courses
+- Materials Science and Engineering
+- Ceramic Processing Technology
+- Refractory Materials
+- Glass Technology
+- Phase Diagrams and Phase Transformations
+- Heat Treatment of Materials
+- Corrosion Engineering
+- Nanomaterials
+- Biomaterials
+- [Add more courses as needed]
 
 ## Languages
 - **English:** Fluent
-- **[Other Language]:** [Proficiency Level]
+- **Hindi:** Native
+- **Odia:** Native
+- **German:** Basic (from conference experience)
 
 ## Interests
-- Software Development
-- Machine Learning & AI
-- Open Source Contributions
-- Technology Blogging
-- Photography
-- Reading
+- Computational Materials Science
+- Hydrogen Embrittlement Research
+- Machine Learning Applications in Materials
+- International Research Collaboration
+- Scientific Writing and Communication
+- Open Source Software Development
 
 ---
 

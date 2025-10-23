@@ -4,120 +4,150 @@ title: Projects
 permalink: /projects/
 ---
 
-# My Projects
+# My Research Projects & Work
 
-Here's a showcase of my work, including personal projects, academic assignments, and professional contributions.
+Here's a showcase of my research work, academic projects, and contributions to materials science and engineering.
 
-## Featured Projects
+## Featured Research Projects
 
-### 1. E-Commerce Web Application
-**Technologies:** React, Node.js, MongoDB, Express.js  
-**Duration:** 3 months  
-**Description:** A full-stack e-commerce platform with user authentication, product catalog, shopping cart, and payment integration.
+### 1. Hydrogen-Dislocation Interactions in Nickel: A First Principles Study
+**Technologies:** VASP, Quantum ESPRESSO, Python, DFT  
+**Duration:** August 2023 - December 2025  
+**Institution:** Indian Institute of Science (IISc), Bangalore  
+**Type:** M.Tech Thesis Project
+
+**Description:** Advanced computational materials science research using Density Functional Theory (DFT) to investigate hydrogen-dislocation interactions in nickel alloys. This research contributes to understanding hydrogen embrittlement mechanisms in structural materials used in aerospace and automotive industries.
 
 **Key Features:**
-- User registration and authentication
-- Product search and filtering
-- Shopping cart functionality
-- Payment gateway integration
-- Admin dashboard for inventory management
+- First principles calculations using VASP and Quantum ESPRESSO
+- Hydrogen-dislocation interaction modeling
+- Electronic structure analysis
+- Mechanical property predictions
+- International conference presentation (DGM, Germany)
 
-**GitHub:** [github.com/shibasankardash/ecommerce-app](https://github.com/shibasankardash/ecommerce-app)  
-**Live Demo:** [demo-link.com](https://demo-link.com)
+**Achievements:**
+- **Best Experiment Award** - IISc Open Day 2024
+- **International Presentation** - DGM Conference, Germany (February 2025)
+- **Research Excellence** - Cutting-edge materials science research
+
+**Technologies Used:**
+- Density Functional Theory (DFT)
+- VASP (Vienna Ab initio Simulation Package)
+- Quantum ESPRESSO
+- Python for data analysis
+- Materials characterization techniques
 
 ---
 
-### 2. Machine Learning Model for Stock Prediction
-**Technologies:** Python, TensorFlow, Pandas, Scikit-learn  
-**Duration:** 2 months  
-**Description:** Developed a machine learning model to predict stock prices using historical data and technical indicators.
+### 2. Refractory Lining Design for Blast Furnace Applications
+**Technologies:** Materials Studio, COMSOL, Thermal Analysis  
+**Duration:** 2021 - 2022  
+**Institution:** National Institute of Technology (NIT), Rourkela  
+**Type:** B.Tech Final Year Project
+
+**Description:** Comprehensive study and design of refractory materials for blast furnace applications, focusing on thermal stability, chemical resistance, and mechanical properties under extreme conditions. This project addressed real-world industrial challenges in steel manufacturing.
 
 **Key Features:**
-- Data preprocessing and feature engineering
-- LSTM neural network implementation
-- Real-time data integration
-- Performance visualization dashboard
-- Model accuracy: 78.5%
+- Refractory material selection and optimization
+- Thermal stability analysis
+- Chemical resistance testing
+- Mechanical property evaluation
+- Industrial application design
 
-**GitHub:** [github.com/shibasankardash/stock-prediction](https://github.com/shibasankardash/stock-prediction)
+**Technologies Used:**
+- Materials characterization (XRD, SEM, Thermal Analysis)
+- Process engineering principles
+- Ceramic processing technology
+- Heat treatment optimization
 
 ---
 
-### 3. Task Management Mobile App
-**Technologies:** React Native, Firebase, Redux  
-**Duration:** 1.5 months  
-**Description:** A cross-platform mobile application for personal and team task management with real-time synchronization.
+### 3. Machine Learning Applications in Materials Science
+**Technologies:** Python, Scikit-learn, TensorFlow, Deep Learning  
+**Duration:** Ongoing  
+**Description:** Exploring machine learning and deep learning applications in materials science, including property prediction, materials discovery, and process optimization.
 
 **Key Features:**
-- Cross-platform compatibility (iOS & Android)
-- Real-time task synchronization
-- Team collaboration features
-- Push notifications
-- Offline mode support
+- Neural network models for property prediction
+- Materials discovery using ML algorithms
+- Process optimization through data analysis
+- Integration of computational and experimental data
 
-**GitHub:** [github.com/shibasankardash/task-manager](https://github.com/shibasankardash/task-manager)
-
----
-
-### 4. Weather Dashboard
-**Technologies:** JavaScript, HTML5, CSS3, Weather API  
-**Duration:** 2 weeks  
-**Description:** A responsive weather dashboard that displays current weather conditions and forecasts for multiple cities.
-
-**Key Features:**
-- Real-time weather data
-- Multi-city support
-- Interactive charts and graphs
-- Responsive design
-- Location-based weather detection
-
-**GitHub:** [github.com/shibasankardash/weather-dashboard](https://github.com/shibasankardash/weather-dashboard)  
-**Live Demo:** [weather-demo.com](https://weather-demo.com)
+**Technologies Used:**
+- Python programming
+- Scikit-learn for ML algorithms
+- TensorFlow for deep learning
+- Data visualization and analysis
 
 ---
 
 ## Academic Projects
 
-### Database Management System
-**Technologies:** MySQL, PHP, HTML, CSS  
-**Description:** Designed and implemented a comprehensive database management system for a library management system.
+### Computational Materials Science Projects
+**Technologies:** DFT, Materials Studio, Python  
+**Description:** Various computational projects exploring materials properties, phase transitions, and electronic structure calculations.
 
-### Operating System Simulation
-**Technologies:** C++, Operating System Concepts  
-**Description:** Created a simulation of various operating system algorithms including scheduling, memory management, and file systems.
+### Experimental Materials Characterization
+**Technologies:** XRD, SEM, TEM, AFM  
+**Description:** Hands-on experience with advanced materials characterization techniques and analysis methods.
 
-### Network Security Tool
-**Technologies:** Python, Network Security Libraries  
-**Description:** Developed a network monitoring tool that detects and prevents common security threats.
-
----
-
-## Open Source Contributions
-
-### Contributing to [Project Name]
-- Fixed bug in user authentication module
-- Added new feature for data visualization
-- Improved code documentation
-
-### Contributing to [Project Name]
-- Optimized database queries
-- Enhanced UI/UX components
-- Added unit tests for better code coverage
+### Process Engineering Projects
+**Technologies:** Ceramic Processing, Heat Treatment  
+**Description:** Industrial process optimization and materials processing projects.
 
 ---
 
-## Hackathon Projects
+## Research Publications & Presentations
 
-### Hackathon Winner - [Event Name]
-**Project:** [Project Description]  
-**Technologies:** [Tech Stack]  
-**Achievement:** 1st Place out of 50+ teams
+### International Conference Presentations
+- **DGM Conference, Germany (February 2025)**
+  - Topic: "Hydrogen-Dislocation Interactions in Nickel: A First Principles Study"
+  - Duration: 7 days
+  - Achievement: Presented cutting-edge research to international community
 
-### Hackathon Participant - [Event Name]
-**Project:** [Project Description]  
-**Technologies:** [Tech Stack]  
-**Achievement:** Top 10 Finalist
+### Academic Presentations
+- **IISc Open Day 2024** - Best Experiment Award Winner
+- **Department Seminars** - Regular research updates and findings
+- **Research Group Meetings** - Collaborative research discussions
 
 ---
 
-*Want to see more of my work? Check out my [GitHub profile](https://github.com/shibasankardash) for additional projects and contributions.*
+## Technical Skills Demonstrated
+
+### Computational Methods
+- **Density Functional Theory (DFT)** - VASP, Quantum ESPRESSO
+- **Machine Learning** - Python, Scikit-learn, TensorFlow
+- **Deep Learning** - Neural Networks, CNN, RNN
+- **Data Analysis** - Python, MATLAB, Origin
+
+### Materials Engineering
+- **Characterization Techniques** - XRD, SEM, TEM, AFM
+- **Simulation Software** - Materials Studio, COMSOL
+- **Process Engineering** - Ceramic Processing, Heat Treatment
+- **Testing Methods** - Mechanical Testing, Thermal Analysis
+
+### Programming & Software
+- **Languages:** Python, MATLAB, C++, R, Fortran
+- **Tools:** Git, GitHub, LaTeX, Microsoft Office
+- **Platforms:** Linux, Windows, High-Performance Computing
+
+---
+
+## Future Research Directions
+
+### Planned Projects
+- **Advanced Hydrogen Embrittlement Studies** - Extended computational investigations
+- **Machine Learning Integration** - ML-enhanced materials discovery
+- **International Collaborations** - Cross-institutional research projects
+- **Industrial Applications** - Real-world materials engineering solutions
+
+### Research Interests
+- Computational Materials Science
+- Hydrogen Embrittlement Mechanisms
+- Machine Learning in Materials Discovery
+- Advanced Characterization Techniques
+- International Research Collaboration
+
+---
+
+*Want to learn more about my research? Feel free to contact me for detailed discussions about any of these projects.*
