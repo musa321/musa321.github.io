@@ -368,4 +368,3 @@ permalink: /cv/
 ---
 
 *Last Updated: October 2024*
-# Updated Sat Oct 25 01:41:28 IST 2025
