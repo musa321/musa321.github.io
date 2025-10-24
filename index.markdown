@@ -9,6 +9,7 @@ Hi! I'm **Shibasankar Dash**, a passionate materials science researcher and engi
 ## Quick Navigation
 
 - 📄 **[CV & Education](/cv/)** - View my academic background, qualifications, and detailed marksheet
+- 🎓 **[Academic Records](/academic/)** - Detailed transcripts, course grades, and academic performance
 - 🚀 **[Research Projects](/projects/)** - Explore my research work, thesis projects, and scientific contributions
 - 📧 **[About & Contact](/about/)** - Learn more about me and get in touch for collaborations
 
@@ -20,6 +21,7 @@ I specialize in **computational materials science** with a focus on understandin
 - 🏆 **Best Experiment Award** - IISc Open Day 2024
 - 🌍 **International Presentation** - DGM Conference, Germany (February 2025)
 - 🎯 **GATE Metallurgy** - Top 2% All India Rank
+- 🎓 **Academic Excellence** - B.Tech CGPA: 8.18/10.0, M.Tech CGPA: 8.2/10.0
 - 🔬 **Research Excellence** - Cutting-edge materials science investigations
 
 ### Research Focus Areas

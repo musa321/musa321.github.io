@@ -57,12 +57,17 @@ Currently, I'm pursuing my M.Tech at IISc Bangalore (2023-2025), focusing on com
 
 ### Master of Technology (M.Tech) - Materials Engineering
 **Institution:** Indian Institute of Science (IISc), Bangalore  
-**Duration:** August 2023 - December 2025  
+**Duration:** August 2023 - July 2025  
+**CGPA:** 8.2/10.0  
+**Research Supervisor:** Prof. Karthikeyan Subramanian  
 **Focus:** Computational Materials Science, DFT, Hydrogen Embrittlement
 
-### Bachelor of Technology (B.Tech) - Materials and Ceramic Engineering
+### Bachelor of Technology (B.Tech) - Ceramic Engineering
 **Institution:** National Institute of Technology (NIT), Rourkela  
 **Duration:** 2018 - 2022  
+**CGPA:** 8.18/10.0  
+**Major:** Ceramic Engineering  
+**Minor:** Metallurgical and Materials Engineering  
 **Focus:** Materials Processing, Characterization, Industrial Applications
 
 ## Beyond Research
@@ -80,7 +85,8 @@ When I'm not immersed in computational simulations or experimental work, you can
 I'm always excited to connect with fellow researchers, potential collaborators, industry professionals, and anyone interested in materials science and engineering. Feel free to reach out!
 
 ### Contact Information
-- **Email:** [shibasankar@example.com](mailto:shibasankar@example.com)
+- **Email:** [shibasankar@iisc.ac.in](mailto:shibasankar@iisc.ac.in)
+- **Phone:** +91-7978006274
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/shibasankardash)
 - **GitHub:** [github.com/shibasankardash](https://github.com/shibasankardash)
 - **ResearchGate:** [Your ResearchGate Profile]
