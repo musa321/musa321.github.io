@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Shibasankar Dash - Personal Portfolio
-email: shibasankar@example.com
+email: shibsankar108@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal portfolio website showcasing CV, education, projects, and professional experience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shibasankardash.github.io" # the base hostname & protocol for your site
+url: "https://musa321.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username: shibasankardash
+github_username: musa321
 
 # GitHub Pages specific settings
-repository: shibasankardash/shibasankardash.github.io
+repository: musa321.github.io
 
 # Build settings
 # theme: minima
